@@ -18,7 +18,7 @@ class Submenu{
             __('Batch Process','dcms-batch-process'),
             __('Batch Process','dcms-batch-process'),
             'manage_options',
-            'batch-process',
+            'dcms-batch-process',
             [$this, 'submenu_page_callback']
         );
     }

@@ -3,22 +3,24 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Batch Process 1.0\n"
-"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dcms-batch-process\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dcms-batch-"
+"process\n"
+"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2021-01-03T23:30:14+00:00\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.1.0\n"
+"POT-Creation-Date: 2021-01-03T22:41:51+00:00\n"
+"PO-Revision-Date: 2021-01-03 17:47-0500\n"
+"X-Generator: Poedit 2.4.2\n"
 "X-Domain: dcms-batch-process\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
 
 #. Plugin Name of the plugin
-#: includes/dcms-submenu.php:18
-#: includes/dcms-submenu.php:19
+#: includes/dcms-submenu.php:18 includes/dcms-submenu.php:19
 msgid "Batch Process"
-msgstr ""
+msgstr "Proceso por lotes"
 
 #. Plugin URI of the plugin
 #. Author URI of the plugin
@@ -27,12 +29,8 @@ msgstr ""
 
 #. Description of the plugin
 msgid "Generic plugin for batch processing"
-msgstr ""
+msgstr "Plugin genérico para programar un proceso por lotes"
 
 #. Author of the plugin
 msgid "Jhon Marreros Guzmán"
-msgstr ""
-
-#: dcms-batch-process.php:55
-msgid "Settings"
 msgstr ""
